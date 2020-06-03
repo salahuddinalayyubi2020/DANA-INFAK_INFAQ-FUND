@@ -22,7 +22,7 @@ Since these are all static assets you can serve them locally with a simple web s
 
 You can now view your page at http://localhost:8888
 
-If you're getting an error running this command, see more detailed insturctions on [MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server).
+If you're getting an error running this command, see more detailed insturctions on [MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 
 ## Go live
 
